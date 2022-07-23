@@ -1,0 +1,7 @@
+.staffRegistrationPage{
+    overflow-x: hidden;
+}
+.staffRegistrationPageContainer{
+    overflow-y: scroll;
+    height: 100vh;
+}

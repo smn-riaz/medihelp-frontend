@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "medihelp-2fc4a",
+    "staging": "medihelp-2fc4a",
+    "production": "medihelp-5c899"
+  },
+  "targets": {},
+  "etags": {}
+}

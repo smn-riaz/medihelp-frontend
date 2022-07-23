@@ -1,0 +1,6 @@
+.billRecordPage{
+    overflow: hidden;
+}
+.billRecordPageContainer{
+    overflow-y: scroll;
+}

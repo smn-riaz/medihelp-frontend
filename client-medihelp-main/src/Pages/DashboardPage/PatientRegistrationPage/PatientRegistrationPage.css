@@ -1,0 +1,9 @@
+.patientRegistrationPage{
+    overflow-x: hidden;
+    
+}
+.patientRegistrationPageContainer{
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}

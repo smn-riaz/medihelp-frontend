@@ -1,0 +1,7 @@
+.dashboardLandingPage{
+    overflow-x: hidden;
+}
+.dashboardLandingPageContainer{
+    overflow-y: auto;
+    height: 100vh;
+}

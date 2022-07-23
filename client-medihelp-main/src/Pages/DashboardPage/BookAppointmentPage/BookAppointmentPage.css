@@ -1,0 +1,65 @@
+.bookAppointmentPage{
+    overflow-x: hidden;
+}
+.bookAppointmentPageContainer{
+    overflow-y: scroll;
+    height: 100vh;
+}
+.calender{
+    height: fit-content;
+    width: fit-content;
+    box-shadow: 0px 0px 20px #dc60e0b9;
+}
+.calender:hover{
+    box-shadow: none;
+}
+.appointDate{
+    color: #D280EB;
+    font-weight: 700;
+}
+
+
+
+.watch-area nav li{
+    color: black;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.watch-area nav .active{
+    color: #B49355;
+}
+
+.watch-area nav .active::after{
+    content: "";
+    width: 80%;
+    margin: 0 auto;
+    height: 2px;
+    background-color: #B49355;
+    display: block;
+}
+.watch-area .card{
+    border: none;
+}
+.watch-area .card-img-top{
+    width: 60%;
+    display: block;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.watch-area div > a{
+    color: #000;
+}
+
+.watch-area div > a:hover{
+    text-decoration: none;
+}
+
+.watch-area .card:hover{
+    box-shadow: 0 5px 13px 0px #e4dfdfcb;
+}
+
+.watch-type{
+    cursor: pointer;
+}

@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@600&display=swap');
+.topBanner-section{
+    min-height: 90vh;
+    text-align: center;
+    overflow-x: hidden;
+    color: black;
+}
+.qto-sign{
+    font-family: 'M PLUS 1 Code', sans-serif;   
+}
+
+.apntBtn{
+  display: inline-block;
+}
+.textDiv{
+  vertical-align: middle;
+  color: #6925fd;
+}

@@ -1,0 +1,14 @@
+.patientRegistrationInfoPage{
+    overflow-x: hidden;
+}
+.patientRegistrationInfoPageContainer{
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+.patientInfo-table tr:hover{
+    background-color: rgba(224, 221, 221, 0.986);
+}
+.patientInfo-table thead tr:hover{
+    background-color: white;
+}

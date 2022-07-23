@@ -1,0 +1,38 @@
+.footer-container{
+    background:linear-gradient(45deg, #f336eaef,#ad5bf0e3,#8393f1);
+    overflow-x: hidden;
+}
+.footer-link-container{
+    padding-top: 20px;
+}
+.logo-icon{
+    height: 30%;
+    width: 30%;
+}
+
+footer li {
+    line-height: 35px;
+}
+footer div {
+    justify-content: space-evenly;
+}
+.subscribe-btn{
+    color: #11a3f8;
+    font-weight: 600;
+}
+.subscribe-btn:hover{
+    background-color: rgba(130, 214, 214, 0.747);
+    color: white;
+}
+
+.footer-link{
+    color: rgba(255, 255, 255, 0.808);
+    text-decoration: none;
+    font-size: 18px;
+}
+footer .footer-link:hover{
+    color: white;
+}
+.footer-bottom{
+    background-color: #89dada3d;
+}

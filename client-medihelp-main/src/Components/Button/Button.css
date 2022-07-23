@@ -1,0 +1,27 @@
+.button{
+    padding:8px 15px;
+    font-weight: 500;
+    background:linear-gradient(45deg, #eb7ce5,#8e5ffc);
+    border: 1.5px solid rgba(255, 255, 255, 0.527);
+    color: white;
+    border-radius: 6px;
+    font-size: 18px;
+    
+}
+.appointBtn{
+    transition: transform .5s ease;
+}
+
+.button-style{
+    padding:8px 15px;
+    font-weight: 500;
+    background-color:inherit;
+    border: 1.5px solid #7071DB;
+    color: #7071DB;
+    border-radius: 6px;
+    font-size: 18px;
+}
+.button-style:hover{
+    background:linear-gradient(45deg, #eb7ce5,#8e5ffc);
+    color: white;
+}

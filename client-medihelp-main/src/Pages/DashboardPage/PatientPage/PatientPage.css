@@ -1,0 +1,12 @@
+.patientPageContainer{
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+.patientPage{
+    overflow-x: hidden;
+}
+.bio-container{
+    background:linear-gradient(135deg, #eca1e9ef,#c797eee3,#a6b1f1);
+    border-radius: 20px;
+}

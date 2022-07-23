@@ -1,0 +1,10 @@
+.landingPage{
+    overflow-x: hidden;
+}
+.topPart{
+    background: linear-gradient(270deg, #bfffff, #d4d1d4, #c9e1ee, #a099f5);
+}
+
+.navSection{
+    min-height: 12vh
+}

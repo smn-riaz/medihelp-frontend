@@ -1,0 +1,30 @@
+.staffRegistrationInfoPage{
+    overflow-x: hidden;
+}
+.staffRegistrationInfoPageContainer{
+    overflow-y: scroll;
+    height: 100vh;
+}
+.circleStyle{
+    background:linear-gradient(45deg, #ee8ae9ef,#ba8ae0e3,#a8b2eb);
+    color: white;
+    height: 45px;
+    width: 45px;
+    border:none;
+    font-weight: 600;
+    border-radius: 50%;
+}
+.staffInfo-table tr:hover{
+    background-color: rgba(224, 221, 221, 0.986);
+}
+.staffInfo-table thead tr:hover{
+    background-color: white;
+}
+.delete-btn{
+    border: none;
+    background-color: white;
+}
+.delete-btn:hover{
+    color: red;
+    background-color: white;
+}

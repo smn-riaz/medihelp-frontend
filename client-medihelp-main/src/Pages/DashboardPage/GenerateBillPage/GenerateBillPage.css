@@ -1,0 +1,6 @@
+.generateBillPage{
+    overflow-x: hidden;
+}
+.generateBillPageContainer{
+    overflow-y: scroll;
+}

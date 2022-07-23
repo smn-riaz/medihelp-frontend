@@ -1,0 +1,16 @@
+.service-section{
+    min-height: 100vh;
+}
+.service-box .service-image{
+    transition: transform .5s ease;
+}
+.service-box:hover .service-image{
+    transform: scale(1.2, 1.2);
+}
+.service-box:hover .extra-text{
+    visibility: visible;
+}
+.extra-text{
+    visibility: hidden;
+    font-weight: 700;
+}

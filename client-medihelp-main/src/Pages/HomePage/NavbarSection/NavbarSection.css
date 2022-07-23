@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.navbar-headline{
+    font-family: 'Lobster', cursive;
+    color: #9561FA !important;
+}
+.nav-link{
+    font-weight: 500;
+}
+
+.hash-icon{
+    color: #6a11f8;
+    font-weight: 900;
+    font-size: 18px;
+    animation: coloring .5s infinite;
+}
+
+@keyframes coloring {
+    0%{color: #550cdd;}
+    50%{color: white;}
+    100%{color: #f10e80;}
+}

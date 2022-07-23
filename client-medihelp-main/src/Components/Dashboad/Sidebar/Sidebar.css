@@ -1,0 +1,45 @@
+.sidebar{
+    background:linear-gradient(135deg, #ee7de8ef,#b26debe3,#8092f5);
+    /* min-height: 100vh;
+    max-height: fit-content; */
+    height: 100vh;
+    overflow-y: scroll;
+    
+}
+::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background:linear-gradient(45deg, #f549ecef,rgb(166, 226, 198),#3cdef3);
+  }
+
+.sidebar li{
+    margin-bottom: 2em;
+    text-decoration: none;
+    color: white;
+    transition: transform .5s ease;
+}
+
+
+.sidebar li:hover{
+    transform: translate(3px , -3px);
+}
+
+.fwLink{
+    color: red;
+}
+.sidebar-link{
+    color: rgba(255, 255, 255, 0.753);
+}
+.sign-out{
+    cursor: pointer;
+}
+.sidebar-link:hover{
+    color: white;
+}
+@media screen and (max-width: 768px) {
+    .sidebar {
+        height: 70vh;
+    }
+  }

@@ -1,0 +1,10 @@
+.notFound{
+    background-image: url('https://i.ibb.co/MchNVwF/notfound.gif');
+    background-position: center center;
+    min-height: 100vh;
+    overflow: hidden;
+    background-size:contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    overflow-x: hidden;
+}

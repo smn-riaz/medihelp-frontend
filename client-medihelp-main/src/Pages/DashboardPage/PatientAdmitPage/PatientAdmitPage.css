@@ -1,0 +1,7 @@
+.patientAdmitPage{
+    overflow-x: hidden;
+   }
+   .patientAdmitPageContainer{
+       overflow-y: scroll;
+       height: 100vh;
+   }

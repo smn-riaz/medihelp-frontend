@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+.section-headline .big-text{
+    color: #6624e9;
+    font-family: 'Teko', sans-serif;
+    font-size: 55px;
+}
