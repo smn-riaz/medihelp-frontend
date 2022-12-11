@@ -33,7 +33,7 @@
 <li>Node.js</li>
 <li>Express.js</li>
 <li>MongoDB</li>
-<li>Heroku</li>
+<li>Vercel</li>
 <li>Firebase</li>
 <br><br>
 <h3>Home Page</h3>
