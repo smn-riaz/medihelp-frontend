@@ -3,7 +3,7 @@
 
 
 ### `Live Website :` [MediHelp Hospital](https://medihelp-5c899.web.app/)
-### `Live Server :` [MediHelp Hospital Server](https://secure-scrubland-67511.herokuapp.com/)
+### `Live Server :` [MediHelp Hospital Server](https://medihelp-server.vercel.app/)
 
 
 <br>
