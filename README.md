@@ -10,7 +10,7 @@
 - 🌍 **Live Website**: [MediHelp Hospital](https://medihelp-5c899.web.app/)
 - 🛠️ **Live Server API**: [MediHelp Server](https://secure-scrubland-67511.herokuapp.com/)
 - 💻 **Client GitHub Repo**: [smn-riaz/medihelp-frontend](https://github.com/smn-riaz/medihelp-frontend)
-- - ⚙️ **Backend GitHub Repo**: [smn-riaz/medihelp-backend](https://github.com/smn-riaz/medihelp-backend)
+- ⚙️ **Backend GitHub Repo**: [smn-riaz/medihelp-backend](https://github.com/smn-riaz/medihelp-backend)
 
 ---
 
@@ -91,4 +91,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pro77dev/client-medihelp
+   git clone https://github.com/smn-riaz/medihelp-frontend
